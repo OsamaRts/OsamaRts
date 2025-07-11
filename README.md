@@ -1,31 +1,31 @@
-<h1 align="center">👋 مرحباً! أنا أسامة جعفر</h1>
+<h1 align="center">👋 Hello! I'm Osama Jaafar</h1>
 
 <p align="center">
-  📱 مطوّر تطبيقات | 💻 مهندس برمجيات | ✨ شغوف بتعليم التقنية لخدمة المجتمع
+  📱 App Developer | 💻 Software Engineer | ✨ Passionate about Tech for Education
 </p>
 
 ---
 
-### 📌 مشروعي الحالي:
+### 📌 Featured Project
 
-## 🎯 تطبيق "دليلك لتعلم التجويد"
+## 🎯 Dalilak: Learn Tajweed App
 
-🔗 [رابط المشروع على GitHub](https://github.com/OsamaRts/dart)
+🔗 [View Project on GitHub](https://github.com/OsamaRts/dart)
 
-🕌 تطبيق تعليمي يهدف لمساعدة المستخدمين على تعلم **أحكام التجويد** بأسلوب بسيط وتفاعلي.  
-📖 يحتوي على شروحات مبسطة، أمثلة صوتية، واختبارات قصيرة لمراجعة الفهم.
+🕌 **Dalilak** is an educational mobile application designed to help users learn the rules of **Tajweed** (Qur’anic pronunciation) in a simple and interactive way.  
+📖 The app includes clear lessons, voice examples, and short quizzes to reinforce learning.
 
-🛠️ مبني باستخدام:
-- Flutter & Dart
-- Firebase
-- تصميم UI/UX بسيط وسهل الاستخدام
+🛠️ Built with:
+- Flutter & Dart  
+- Firebase  
+- Clean and user-friendly UI/UX design
 
 ---
 
-### 📫 تواصل معي
+### 📫 Contact Me
 [![LinkedIn](https://img.shields.io/badge/-Osama%20Jaafar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/osama-jafar-827077360)  
 ✉️ jjjjhgffrddssdgh.kk@gmail.com
 
 ---
 
-<p align="center">🌟 شكراً لاهتمامك بالمشروع! لا تنسى تترك ⭐ إذا أعجبك.</p>
+<p align="center">⭐ Thanks for visiting my profile! Feel free to star the project if you found it useful.</p>
