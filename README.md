@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">👋 أهلاً! أنا أسامة</h1>
 
-<!--
-**OsamaRts/OsamaRts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Software Engineer | 🎮 Game Developer | ☁️ Cloud Enthusiast  
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 عني
+- 🧠 شغوف في تطوير البرمجيات وخصوصًا ألعاب الفيديو وتطبيقات الويب
+- 🌐 أحب أتعلم تقنيات جديدة زي الـ Cloud و DevOps وAI
+- 💬 اسألني عن أي شيء يخص البرمجة أو تطوير الألعاب
+
+---
+
+### 🚀 مشاريع بارزة
+- 🕹️ [SuperGame](https://github.com/OsamaRts/SuperGame): لعبة أبطال خارقين بنظام طاقة وخصائص فريدة
+- ☁️ [CloudDash](https://github.com/OsamaRts/CloudDash): لوحة تحكم سحابية باستخدام React + Firebase
+
+---
+
+### 📫 تواصل معي
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/osama-dev)
+[![Gmail](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:osamarts@gmail.com)
+
+---
+
+### 📊 إحصائيات
+![Osama's GitHub stats](https://github-readme-stats.vercel.app/api?username=OsamaRts&show_icons=true&theme=tokyonight)
+
+---
+
+<p align="center">💙 شكراً لزيارتك لبروفايلي! 💙</p>
