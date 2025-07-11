@@ -1,33 +1,31 @@
-<h1 align="center">👋 أهلاً! أنا أسامة</h1>
+<h1 align="center">👋 مرحباً! أنا أسامة جعفر</h1>
 
 <p align="center">
-  💻 Software Engineer | 🎮 Game Developer | ☁️ Cloud Enthusiast  
+  📱 مطوّر تطبيقات | 💻 مهندس برمجيات | ✨ شغوف بتعليم التقنية لخدمة المجتمع
 </p>
 
 ---
 
-### 👨‍💻 عني
-- 🧠 شغوف في تطوير البرمجيات وخصوصًا ألعاب الفيديو وتطبيقات الويب
-- 🌐 أحب أتعلم تقنيات جديدة زي الـ Cloud و DevOps وAI
-- 💬 اسألني عن أي شيء يخص البرمجة أو تطوير الألعاب
+### 📌 مشروعي الحالي:
 
----
+## 🎯 تطبيق "دليلك لتعلم التجويد"
 
-### 🚀 مشاريع بارزة
-- 🕹️ [SuperGame](https://github.com/OsamaRts/SuperGame): لعبة أبطال خارقين بنظام طاقة وخصائص فريدة
-- ☁️ [CloudDash](https://github.com/OsamaRts/CloudDash): لوحة تحكم سحابية باستخدام React + Firebase
+🔗 [رابط المشروع على GitHub](https://github.com/OsamaRts/dart)
+
+🕌 تطبيق تعليمي يهدف لمساعدة المستخدمين على تعلم **أحكام التجويد** بأسلوب بسيط وتفاعلي.  
+📖 يحتوي على شروحات مبسطة، أمثلة صوتية، واختبارات قصيرة لمراجعة الفهم.
+
+🛠️ مبني باستخدام:
+- Flutter & Dart
+- Firebase
+- تصميم UI/UX بسيط وسهل الاستخدام
 
 ---
 
 ### 📫 تواصل معي
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/osama-dev)
-[![Gmail](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:osamarts@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-Osama%20Jaafar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/osama-jafar-827077360)  
+✉️ jjjjhgffrddssdgh.kk@gmail.com
 
 ---
 
-### 📊 إحصائيات
-![Osama's GitHub stats](https://github-readme-stats.vercel.app/api?username=OsamaRts&show_icons=true&theme=tokyonight)
-
----
-
-<p align="center">💙 شكراً لزيارتك لبروفايلي! 💙</p>
+<p align="center">🌟 شكراً لاهتمامك بالمشروع! لا تنسى تترك ⭐ إذا أعجبك.</p>
