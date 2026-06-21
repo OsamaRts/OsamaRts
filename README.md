@@ -11,7 +11,8 @@
 ## 🎯 Dalilak: Learn Tajweed App
 
 🔗 [View Project on GitHub](https://github.com/OsamaRts/dart)  
-📲 [Download APK]()
+📲 [Download APK]
+(https://play.google.com/store/apps/details?id=com.dalilak.tajweed_project&pli=1)
 
 🕌 **Dalilak** is an educational mobile application designed to help users learn the rules of **Tajweed** (Qur’anic pronunciation) in a simple and interactive way.  
 📖 The app includes clear lessons, voice examples, and short quizzes to reinforce learning.
@@ -25,7 +26,8 @@
 
 ### 📫 Contact Me
 [![LinkedIn](https://img.shields.io/badge/-Osama%20Jaafar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/osama-jafar-827077360)  
-✉️ jjjjhgffrddssdgh.kk@gmail.com
+✉️ osama.jafar.dev@gmail.com
+
 
 ---
 
