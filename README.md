@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Osama Jaafar 👋</h1>
+<h1 align="center">Hi, I'm Osama Jaafar</h1>
 
 <p align="center">
   <b>Flutter developer</b> · <b>Software engineer</b> · Amman, Jordan
@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 Featured Project
+## Featured Project
 
 <table>
   <tr>
@@ -41,7 +41,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
@@ -54,15 +54,13 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=OsamaRts&theme=radical" alt="GitHub Streak" />
 </div>
 
----
-
-## 📫 Get in Touch
+## Get in Touch
 
 <div align="center">
   <a href="mailto:osama.jafar.dev@gmail.com">
@@ -73,5 +71,5 @@
 <br/>
 
 <div align="center">
-  <sub>If you find one of my projects useful, a ⭐ on the repo is always appreciated.</sub>
+  <sub>If you find one of my projects useful, a  on the repo is always appreciated.</sub>
 </div>
