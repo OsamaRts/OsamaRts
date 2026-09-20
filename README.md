@@ -48,11 +48,15 @@
 
 ### 📫 Contact Me
 
+### 📊 GitHub Stats
+
 <div align="center">
-  <a href="mailto:osama.jafar.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-osama.jafar.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a href="https://github.com/OsamaRts">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=OsamaRts&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="Osama's GitHub Stats" />
   </a>
-  <!-- يمكنك إضافة روابط LinkedIn أو Twitter هنا لاحقاً -->
+  <a href="https://github.com/OsamaRts">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsamaRts&layout=compact&theme=radical" alt="Top Languages" />
+  </a>
 </div>
 
 ---
